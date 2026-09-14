@@ -1,0 +1,24 @@
+{
+    "stock": {
+        "Football": 10,
+        "Cricket Bat": 8,
+        "Basketball": 6,
+        "Badminton Racket": 12,
+        "Jersey": 19,
+        "Sports Cone": 20,
+        "Bayern Jersey": 5
+    },
+    "issued_items": [
+        {
+            "issue_id": 1,
+            "student_name": "Ravin",
+            "class_house": "9",
+            "item_name": "Bayern Jersey",
+            "quantity": 3,
+            "issue_date": "2026-09-14",
+            "status": "Returned",
+            "return_date": "2026-09-14"
+        }
+    ],
+    "next_issue_id": 2
+}
